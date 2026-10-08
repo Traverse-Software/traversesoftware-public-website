@@ -1,0 +1,1 @@
+import{r as o,d as a,i as s,c as n,g as m,k as i,j as c}from"./lib-StM2oDAy.js";var l=m("<div>");function d(e,r){o(()=>(()=>{var t=l();return a(t,`site site-${e}`),s(t,n(r,{})),t})(),document.getElementById("root"))}function p(e){return n(c,{get component(){return i[e.demoKey.slice(5)]}})}export{p as D,d as m};
