@@ -1,0 +1,1 @@
+import{r as o,b as a,i as s,c as n,f as m,j as i,h as c}from"./lib-DcjPZKjy.js";var l=m("<div>");function p(e,r){o(()=>(()=>{var t=l();return a(t,`site site-${e}`),s(t,n(r,{})),t})(),document.getElementById("root"))}function d(e){return n(c,{get component(){return i[e.demoKey.slice(5)]}})}export{d as D,p as m};
